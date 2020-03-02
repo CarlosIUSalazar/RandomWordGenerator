@@ -37,6 +37,8 @@ words[30] = "Dogs are smart"
 words[31] = "Birds can sing"
 words[32] = "Lions are fast"
 words[33] = "Animals are our friends"
+words[34] = "Japan is beautiful"
+words[35] = "Tigers are cool"
 
 function BuildArray(size){
 this.length = size
