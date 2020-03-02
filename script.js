@@ -33,6 +33,9 @@ words[26] = "cryptogram"
 words[27] = "torchlight"
 words[28] = "bankruptcy"
 words[29] = "Cats are adorable"
+words[30] = "Dogs are smart"
+words[31] = "Birds can sing"
+words[32] = "Lions are fast"
 
 function BuildArray(size){
 this.length = size
