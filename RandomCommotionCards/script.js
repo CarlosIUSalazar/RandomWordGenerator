@@ -81,10 +81,28 @@ for (var p = 0; p < l; p++) {
     images[0].parentNode.removeChild(images[0]);
 }
 // display the image  
-document.body.appendChild(newImage);
+//document.body.appendChild(newImage);
+
+document.querySelector(".target").appendChild(newImage)
+
 }
 
 
 // https://icarlospro.com/wp-content/RandomCommotionCards/img/1Bored.png
 // https://icarlospro.com/wp-content/RandomCommotionCards/img/2Joyful.png
 // https://icarlospro.com/wp-content/RandomCommotionCards/img/3Worried.png
+
+
+// #wordbox {
+//     /*opacity: 0;*/
+//     margin: 30px auto 0;
+//     display: block;
+//     width: 300px;
+//     height: 40px;
+//     font-size: 30px;
+//     text-align: center;
+//     background: #fff;
+//     border-radius: 6px;
+//     color: black;
+//     transition: 1s linear;
+// }
