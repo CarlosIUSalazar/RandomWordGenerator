@@ -3,16 +3,16 @@ body {
     font-size: 1.2em;
     margin: 0 auto;
     max-width: 960px;
-    padding: 40px 10px;
+    padding: 0px 10px;
     line-height: 1.65em;
-    background: #B20940;
+    background: rgb(198, 28, 245);
     color: #fff;
     font-weight: 300;
   }
   
   h1 {
     text-align: center;
-    margin: 20% 0 5% 0;
+    margin: 5% 0 5% 0;
   }
   
   #wordbox {
@@ -25,11 +25,11 @@ body {
       text-align: center;
       background: #fff;
       border-radius: 6px;
-      color: #black;
+      color: black;
       transition: 1s linear;
   }
   
-  #button {
+  #jsstyle {
     background: #0b7fba;
       border: 0;
       color: #fff;
