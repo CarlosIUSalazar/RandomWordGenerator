@@ -50,8 +50,8 @@ function display_random_image()
         src: "https://icarlospro.com/wp-content/RandomCommotionCards/img/23Angry.png",
     }, {
         src: "https://icarlospro.com/wp-content/RandomCommotionCards/img/24Annoyed.png",
-    }, {
-    }];
+    }, 
+];
     
     var preBuffer = [];
     for (var i = 0, j = theImages.length; i < j; i++) {
