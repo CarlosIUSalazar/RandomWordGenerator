@@ -3,7 +3,7 @@ body {
     font-size: 1.2em;
     margin: 0 auto;
     max-width: 960px;
-    padding: 40px 10px;
+    padding: 0px 10px;
     line-height: 1.65em;
     background: rgb(247, 127, 15);
     color: #fff;
@@ -19,8 +19,8 @@ body {
       /*opacity: 0;*/
       margin: 30px auto 0;
       display: block;
-      width: 800px;
-      height: 800;
+      width: 700px;
+      /*height: 800px; */
       font-size: 30px;
       text-align: left;
       background: #fff;
